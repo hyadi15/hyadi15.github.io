@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee&display=swap');
+
+
+body{
+    background: linear-gradient(90deg, #1100ff 0%, #fff822 100%);
+
+    font-family: Bungee, serif;
+}
+
+.nav-link {
+    color: rgb(30, 0, 255);
+}
+.navbar-nav .nav-link.active {
+    color: rgb(255, 242, 0);
+}
+.navbar-brand img {
+    width: 40px;
+}
+.navbar-toggler {
+    background-color: rgb(255, 251, 19);
+}
+
+.sidebar {
+    color: rgb(255, 255, 255);
+
+
+background: linear-gradient(90deg, #1100ff 0%, #11037f 100%);
+}
+.card {
+    background: linear-gradient(270deg, #1100ff 0%, #11037f 100%); 
+color: #fff822;
+}
+.card a {
+text-decoration: none;
+color: #fff822;
+}
