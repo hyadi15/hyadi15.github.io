@@ -31,11 +31,11 @@ background: linear-gradient(90deg, #1100ff 0%, #11037f 100%);
 }
 .card {
     background: linear-gradient(270deg, #1100ff 0%, #11037f 100%); 
-color: #ffffff;
+color: #18007a;
 }
 .card a {
 text-decoration: none;
-color: #ffffff;
+color: #230073;
 }
 
 footer, 
